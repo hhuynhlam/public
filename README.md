@@ -1,2 +1,2 @@
-# Public
-This repository hosts miscellaneous public modules.
+# Support
+This repository hosts public support docs for various projects.
